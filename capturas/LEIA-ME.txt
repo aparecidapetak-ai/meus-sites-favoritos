@@ -1,0 +1,1 @@
+Após personalizar o nome, capture o HTML no editor mostrando os comentários e a página aberta no navegador. Salve as capturas reais nesta pasta antes de enviar ao GitHub.
